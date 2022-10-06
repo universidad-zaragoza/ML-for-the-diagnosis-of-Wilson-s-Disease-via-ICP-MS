@@ -1,4 +1,5 @@
-Javier Resano, with the help of Adrián Alcolea
+This code has been written by Javier Resano. Some of the functions were written by Adrián Alcolea in our previous collaboration: 
+"https://github.com/universidad-zaragoza/BNN_for_hyperspectral_datasets_analysis"
 University of Zaragoza
 Aragón Institute of Engineering Research (I3A)
 Department of Computer Science and Systems Engineering University of Zaragoza

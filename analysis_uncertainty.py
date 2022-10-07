@@ -2,7 +2,7 @@ import sys
 import math
 import numpy as np
 
-# UNCERTAINTY FUNCTIONS written by Adrian Alcolea for the work presented in:
+# UNCERTAINTY FUNCTIONS written by Adrian Alcolea ("https://github.com/AdrianAlcolea") for the work presented in:
 "https://github.com/universidad-zaragoza/BNN_for_hyperspectral_datasets_analysis"
 # =============================================================================
 

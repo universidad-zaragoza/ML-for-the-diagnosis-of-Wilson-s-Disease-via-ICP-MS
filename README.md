@@ -5,3 +5,5 @@ It also includes the code used to generate the uncertainty metric.
 Wilson_ML.py: includes the code used to train the models and generate the results.
 
 Anlysis_Uncertainty.py: includes the functions to analize the uncertainty present in the outputs of the 50 NNs ensemble
+
+Models includes all the models used in the final versión of the work, and the generated results.

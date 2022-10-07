@@ -1,5 +1,7 @@
-This code has been written by Javier Resano. Some of the functions were written by Adrián Alcolea in our previous collaboration: 
+Wilson_ML.py has been written by Javier Resano. 
+Analysis-uncertainty was written by Adrián Alcolea in our previous collaboration: 
 "https://github.com/universidad-zaragoza/BNN_for_hyperspectral_datasets_analysis"
+
 University of Zaragoza
 Aragón Institute of Engineering Research (I3A)
 Department of Computer Science and Systems Engineering University of Zaragoza

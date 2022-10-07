@@ -5,3 +5,15 @@ Analysis-uncertainty was written by Adrián Alcolea in our previous collaboratio
 University of Zaragoza
 Aragón Institute of Engineering Research (I3A)
 Department of Computer Science and Systems Engineering University of Zaragoza
+
+
+This code was used in the paper: 
+Cu fractionation, isotopic analysis, and data processing via machine learning: new approaches for the diagnosis and follow up of Wilson’s Disease via ICP-MS
+
+M. Carmen García-Poyo,a,b Sylvain Bérail,a Anne Laure Ronzani,a Luis Rello,c Elena García-González,c Flavio V. Nakadi,b Maite Aramendía,b,d Javier Resano,e Martín Resanob* and Christophe Pécheyrana*
+a Institut des Sciences Analytiques et de Physico-chimie pour l'Environnement et les Matériaux, UPPA/CNRS 5254, Université de Pau et des Pays de l'Adour, 2 Av Président Angot, Pau, 64000, France, E-mail: christophe.pecheyran@univ-pau.fr
+b Department of Analytical Chemistry, Aragon Institute of Engineering Research (I3A), University of Zaragoza, Pedro Cerbuna 12, 50009 Zaragoza, Spain, E-mail: mresano@unizar.es
+c Department of Clinical Biochemistry, IIS Aragón, “Miguel Servet” University Hospital, Paseo Isabel La Católica 1-3, 50009 Zaragoza, Spain
+d Centro Universitario de la Defensa de Zaragoza, Carretera de Huesca s/n, 50090, Zaragoza, Spain 
+e Department of Computer Sciences and Systems Engineering (DIIS), Aragon Institute of Engineering Research (I3A), University of Zaragoza, C/ Mariano Esquillor SN, 50018, Zaragoza, Spain
+
